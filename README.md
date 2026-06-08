@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikita Mehare 👋</h1>
 
 <p align="center">
-  🎓 B.Tech – Electronics & Telecommunication | Minor in AWS Cloud Computing & DevOps &nbsp;|&nbsp; YCCE Nagpur, 2026 <br>
+  🎓 B.Tech – Electronics & Telecommunication | Minor in AWS Cloud Computing & DevOps | YCCE Nagpur, 2026 <br>
   ☁️ Aspiring Cloud & Infrastructure Engineer &nbsp;|&nbsp; Open to Work
 </p>
 
@@ -9,10 +9,10 @@
 
 ## 🛠️ Tech Stack
 
-**Cloud:** AWS (EC2, RDS, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, SNS) 
-**OS & Tools:** Linux, Git, GitHub, Postman, PM2 
-**Networking:** VPC, Security Groups, Load Balancing 
-**Monitoring:** CloudWatch, SNS   
+**Cloud:** AWS (EC2, RDS, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, SNS)  
+**OS & Tools:** Linux, Git, GitHub, Postman, PM2  
+**Networking:** VPC, Security Groups, Load Balancing  
+**Monitoring:** CloudWatch, SNS  
 
 ---
 
@@ -20,10 +20,9 @@
 
 | Project | Stack | What I Built |
 |---|---|---|
-| 🚌 Bus Tracking App | AWS EC2, RDS, S3, ELB, Auto Scaling, CloudWatch | Full AWS infra — ALB + Auto Scaling Group, CloudWatch alarms, IAM least-privilege |
-| 🛡️ AI Phishing Detection | Next.js, Node.js, VirusTotal API, Supabase | Real-time URL threat detection with reporting dashboard |
-| 🤖 LLM Chatbot | Python, LLM | AI internship project at U2U Singapore — built and integrated with frontend |
-| 🗂️ Reddit Clone | Next.js, Node.js, Prisma, Supabase, Clerk | Full-stack social platform with auth, posts, and communities |
+| 🚌 Bus Tracking App | AWS EC2, RDS, S3, ELB, Auto Scaling, CloudWatch | Full AWS deployment — ALB + Auto Scaling Group, CloudWatch alarms, IAM least-privilege |
+| 🛡️ AI Phishing Detection | VirusTotal API, Google Safe Browsing API | Contributed to real-time URL threat detection platform |
+| 🤖 LLM Chatbot | Python, LLM | Built during AI internship at U2U Singapore |
 
 ---
 
