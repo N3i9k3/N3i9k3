@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikita Mehare 👋</h1>
 
 <p align="center">
-  🎓 B.Tech – Electronics & Telecom | Minor in AWS Cloud Computing &nbsp;|&nbsp; YCCE Nagpur, 2026 <br>
+  🎓 B.Tech – Electronics & Telecommunication | Minor in AWS Cloud Computing & DevOps &nbsp;|&nbsp; YCCE Nagpur, 2026 <br>
   ☁️ Aspiring Cloud & Infrastructure Engineer &nbsp;|&nbsp; Open to Work
 </p>
 
