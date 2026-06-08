@@ -9,11 +9,10 @@
 
 ## 🛠️ Tech Stack
 
-**Cloud:** AWS (EC2, RDS, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, SNS)  
-**Frontend:** React, Next.js  
-**Backend:** Node.js, Express, REST APIs  
-**Database:** MySQL, Supabase  
-**Tools:** Git, Linux, Postman, PM2  
+**Cloud:** AWS (EC2, RDS, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, SNS)
+**OS & Tools:** Linux, Git, GitHub, Postman, PM2
+**Networking:** VPC, Security Groups, Load Balancing
+**Monitoring:** CloudWatch, SNS  
 
 ---
 
